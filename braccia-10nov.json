@@ -1,0 +1,141 @@
+{
+ "app": "gymos",
+ "version": 1,
+ "sessions": [
+  {
+   "id": "thomas-sessione-2026-11-10",
+   "programId": "thomas-2",
+   "name": "Giorno 2 · Braccia",
+   "status": "done",
+   "startedAt": 1794321000000,
+   "endedAt": 1794323280000,
+   "pausedMs": 0,
+   "current": 0,
+   "exercises": [
+    {
+     "id": "f8d937c1-90c4-4987-ad4d-29d3ea98beba",
+     "name": "Push down vulken in appoggio",
+     "muscle": "Tricipiti",
+     "rest": 90,
+     "technique": "normale",
+     "notes": "",
+     "videoUrl": "",
+     "targetReps": "12-15",
+     "sets": [
+      {
+       "weight": 30,
+       "reps": 15,
+       "done": true,
+       "doneAt": 1794321180000
+      },
+      {
+       "weight": 30,
+       "reps": 15,
+       "done": true,
+       "doneAt": 1794321360000
+      },
+      {
+       "weight": 30,
+       "reps": 15,
+       "done": true,
+       "doneAt": 1794321540000
+      }
+     ]
+    },
+    {
+     "id": "960819de-254b-43bd-9b47-908ab64b5900",
+     "name": "French press bilanciere EZ su inclinata",
+     "muscle": "Tricipiti",
+     "rest": 90,
+     "technique": "normale",
+     "notes": "kg per lato.",
+     "videoUrl": "",
+     "targetReps": "8-10",
+     "sets": [
+      {
+       "weight": 5,
+       "reps": 10,
+       "done": true,
+       "doneAt": 1794321720000
+      },
+      {
+       "weight": 10,
+       "reps": 10,
+       "done": true,
+       "doneAt": 1794321900000
+      },
+      {
+       "weight": 10,
+       "reps": 10,
+       "done": true,
+       "doneAt": 1794322080000
+      }
+     ]
+    },
+    {
+     "id": "a02a04bd-f8ac-4b19-b4b0-f9d267799a24",
+     "name": "Curl alternato seduto",
+     "muscle": "Bicipiti",
+     "rest": 90,
+     "technique": "normale",
+     "notes": "kg per manubrio.",
+     "videoUrl": "",
+     "targetReps": "8-10",
+     "sets": [
+      {
+       "weight": 20,
+       "reps": 10,
+       "done": true,
+       "doneAt": 1794322260000
+      },
+      {
+       "weight": 20,
+       "reps": 10,
+       "done": true,
+       "doneAt": 1794322440000
+      },
+      {
+       "weight": 20,
+       "reps": 10,
+       "done": true,
+       "doneAt": 1794322620000
+      }
+     ]
+    },
+    {
+     "id": "2f5398a0-ca92-4884-81a4-63e1ad9a6474",
+     "name": "Curl martello vulken",
+     "muscle": "Bicipiti",
+     "rest": 90,
+     "technique": "normale",
+     "notes": "",
+     "videoUrl": "",
+     "targetReps": "12-15",
+     "sets": [
+      {
+       "weight": 30,
+       "reps": 15,
+       "done": true,
+       "doneAt": 1794322800000
+      },
+      {
+       "weight": 30,
+       "reps": 15,
+       "done": true,
+       "doneAt": 1794322980000
+      },
+      {
+       "weight": 30,
+       "reps": 15,
+       "done": true,
+       "doneAt": 1794323160000
+      }
+     ]
+    }
+   ],
+   "notes": "Gambe (Giorno 3) non fatte: non riuscivo a farle.",
+   "updatedAt": 1794325028804
+  }
+ ],
+ "message": "Salvato: Braccia del 10 novembre. Gambe segnate come non fatte nelle note."
+}
