@@ -1,0 +1,335 @@
+{
+ "app": "gymos",
+ "version": 1,
+ "sessions": [
+  {
+   "id": "thomas-sessione-2026-11-07",
+   "programId": "thomas-2",
+   "name": "Giorno 2 · Braccia",
+   "status": "done",
+   "startedAt": 1794070800000,
+   "endedAt": 1794073080000,
+   "pausedMs": 0,
+   "current": 0,
+   "exercises": [
+    {
+     "id": "e3e5c1ff-3119-427e-853e-ab46dcd13c04",
+     "name": "Push down vulken in appoggio",
+     "muscle": "Tricipiti",
+     "rest": 90,
+     "technique": "normale",
+     "notes": "",
+     "videoUrl": "",
+     "targetReps": "12-15",
+     "sets": [
+      {
+       "weight": 30,
+       "reps": 15,
+       "done": true,
+       "doneAt": 1794070980000
+      },
+      {
+       "weight": 30,
+       "reps": 15,
+       "done": true,
+       "doneAt": 1794071160000
+      },
+      {
+       "weight": 30,
+       "reps": 15,
+       "done": true,
+       "doneAt": 1794071340000
+      }
+     ]
+    },
+    {
+     "id": "fe05bf1b-9697-4882-8e5c-bc114bb85a34",
+     "name": "French press bilanciere EZ su inclinata",
+     "muscle": "Tricipiti",
+     "rest": 90,
+     "technique": "normale",
+     "notes": "kg per lato.",
+     "videoUrl": "",
+     "targetReps": "8-10",
+     "sets": [
+      {
+       "weight": 5,
+       "reps": 10,
+       "done": true,
+       "doneAt": 1794071520000
+      },
+      {
+       "weight": 10,
+       "reps": 10,
+       "done": true,
+       "doneAt": 1794071700000
+      },
+      {
+       "weight": 10,
+       "reps": 10,
+       "done": true,
+       "doneAt": 1794071880000
+      }
+     ]
+    },
+    {
+     "id": "4a0c9bdf-5da1-4bc6-bc29-1171b1c2cb4f",
+     "name": "Curl alternato seduto",
+     "muscle": "Bicipiti",
+     "rest": 90,
+     "technique": "normale",
+     "notes": "kg per manubrio.",
+     "videoUrl": "",
+     "targetReps": "8-10",
+     "sets": [
+      {
+       "weight": 20,
+       "reps": 10,
+       "done": true,
+       "doneAt": 1794072060000
+      },
+      {
+       "weight": 20,
+       "reps": 10,
+       "done": true,
+       "doneAt": 1794072240000
+      },
+      {
+       "weight": 20,
+       "reps": 10,
+       "done": true,
+       "doneAt": 1794072420000
+      }
+     ]
+    },
+    {
+     "id": "29220389-d5cc-4808-a72a-93dc4df5511e",
+     "name": "Curl martello vulken",
+     "muscle": "Bicipiti",
+     "rest": 90,
+     "technique": "normale",
+     "notes": "",
+     "videoUrl": "",
+     "targetReps": "12-15",
+     "sets": [
+      {
+       "weight": 30,
+       "reps": 15,
+       "done": true,
+       "doneAt": 1794072600000
+      },
+      {
+       "weight": 30,
+       "reps": 15,
+       "done": true,
+       "doneAt": 1794072780000
+      },
+      {
+       "weight": 30,
+       "reps": 15,
+       "done": true,
+       "doneAt": 1794072960000
+      }
+     ]
+    }
+   ],
+   "notes": "Domenica 8: Gambe (Giorno 3) non fatte, non riuscivo a farle.",
+   "updatedAt": 1794325185445
+  },
+  {
+   "id": "thomas-sessione-2026-11-09",
+   "programId": "thomas-4",
+   "name": "Giorno 4 · Petto, spalle e tricipiti",
+   "status": "done",
+   "startedAt": 1794243600000,
+   "endedAt": 1794246960000,
+   "pausedMs": 0,
+   "current": 0,
+   "exercises": [
+    {
+     "id": "e8a747cd-588e-47f3-9383-cf5f727cfcce",
+     "name": "Pec fly",
+     "muscle": "Petto",
+     "rest": 90,
+     "technique": "normale",
+     "notes": "La prima con 2\" di picco e negativa lenta; le altre lente e controllate.",
+     "videoUrl": "",
+     "targetReps": "10-12",
+     "sets": [
+      {
+       "weight": 30,
+       "reps": 10,
+       "done": true,
+       "doneAt": 1794243780000
+      },
+      {
+       "weight": 25,
+       "reps": 12,
+       "done": true,
+       "doneAt": 1794243960000
+      },
+      {
+       "weight": 25,
+       "reps": 12,
+       "done": true,
+       "doneAt": 1794244140000
+      }
+     ]
+    },
+    {
+     "id": "17d28515-0fc6-46de-a81d-bf4268316fc0",
+     "name": "Panca inclinata al multipower",
+     "muscle": "Petto",
+     "rest": 90,
+     "technique": "normale",
+     "notes": "kg per lato.",
+     "videoUrl": "",
+     "targetReps": "6-10",
+     "sets": [
+      {
+       "weight": 15,
+       "reps": 6,
+       "done": true,
+       "doneAt": 1794244320000
+      },
+      {
+       "weight": 15,
+       "reps": 6,
+       "done": true,
+       "doneAt": 1794244500000
+      },
+      {
+       "weight": 17,
+       "reps": 10,
+       "done": true,
+       "doneAt": 1794244680000
+      }
+     ]
+    },
+    {
+     "id": "85aea757-721f-4dbb-beda-77154355ca97",
+     "name": "Panca inclinata manubri",
+     "muscle": "Petto",
+     "rest": 90,
+     "technique": "normale",
+     "notes": "kg per manubrio.",
+     "videoUrl": "",
+     "targetReps": "6-10",
+     "sets": [
+      {
+       "weight": 26,
+       "reps": 10,
+       "done": true,
+       "doneAt": 1794244860000
+      },
+      {
+       "weight": 26,
+       "reps": 10,
+       "done": true,
+       "doneAt": 1794245040000
+      },
+      {
+       "weight": 26,
+       "reps": 10,
+       "done": true,
+       "doneAt": 1794245220000
+      }
+     ]
+    },
+    {
+     "id": "8fee7f51-61c3-4cd2-be33-dd7dbfeefe88",
+     "name": "Laterali alla macchina",
+     "muscle": "Spalle",
+     "rest": 90,
+     "technique": "normale",
+     "notes": "kg per lato.",
+     "videoUrl": "",
+     "targetReps": "15-20",
+     "sets": [
+      {
+       "weight": 15,
+       "reps": 15,
+       "done": true,
+       "doneAt": 1794245400000
+      },
+      {
+       "weight": 15,
+       "reps": 15,
+       "done": true,
+       "doneAt": 1794245580000
+      },
+      {
+       "weight": 15,
+       "reps": 15,
+       "done": true,
+       "doneAt": 1794245760000
+      }
+     ]
+    },
+    {
+     "id": "611611b1-981d-43c2-9f2a-8090cbefcec7",
+     "name": "Laterali da seduto",
+     "muscle": "Spalle",
+     "rest": 90,
+     "technique": "normale",
+     "notes": "kg per manubrio.",
+     "videoUrl": "",
+     "targetReps": "10-12",
+     "sets": [
+      {
+       "weight": 16,
+       "reps": 10,
+       "done": true,
+       "doneAt": 1794245940000
+      },
+      {
+       "weight": 16,
+       "reps": 10,
+       "done": true,
+       "doneAt": 1794246120000
+      },
+      {
+       "weight": 16,
+       "reps": 10,
+       "done": true,
+       "doneAt": 1794246300000
+      }
+     ]
+    },
+    {
+     "id": "5d51ccf3-a8c2-42a0-87f5-0859023a892e",
+     "name": "Push down singolo",
+     "muscle": "Tricipiti",
+     "rest": 90,
+     "technique": "normale",
+     "notes": "",
+     "videoUrl": "",
+     "targetReps": "12-15",
+     "sets": [
+      {
+       "weight": 20,
+       "reps": 12,
+       "done": true,
+       "doneAt": 1794246480000
+      },
+      {
+       "weight": 20,
+       "reps": 12,
+       "done": true,
+       "doneAt": 1794246660000
+      },
+      {
+       "weight": 20,
+       "reps": 12,
+       "done": true,
+       "doneAt": 1794246840000
+      }
+     ]
+    }
+   ],
+   "notes": "Chest super incline non fatta: dimenticata.",
+   "updatedAt": 1794325185445
+  }
+ ],
+ "message": "Salvati: Braccia di sabato 7 e Petto, spalle e tricipiti di lunedì 9. Gambe di domenica segnate come non fatte."
+}
